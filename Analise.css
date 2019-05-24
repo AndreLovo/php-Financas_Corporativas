@@ -1,0 +1,172 @@
+/* CSS FINANÇAS_CORPORATIVAS ANALISE */
+body{
+	
+	width:1000px;
+	margin:auto;/*centralização automática - margem externa*/
+	
+}
+
+header{
+	    background-color:#FFF;/*laranja FFA54F*/
+		color:#606060;
+		font-size:bold;
+		font-weight:16;		
+}
+
+#menu{/*posicionamento do menu*/
+	float:center;
+	margin-top:0px;/*afasta do topo da página*/
+	width: 70 px;
+}
+
+#menu a:hover {
+	color:#000;
+}
+
+#menu ul {/*configuração para a lista não para os itens*/
+	list-style: none;/*tira os pontinhos da lista dos menus*/
+	background: linear-gradient(to bottom, #DDD, #666);/*trabalhando com gradiente no fundo de cor*/
+	padding: 0px;
+	margin: 0px;
+}
+
+#menu li {/*Configuração dos itens lists*/
+	height: 50px;
+	display: table-cell;/*forma de exibição - padrao um do lado do outro*/
+	text-align: center;
+	vertical-align: middle;/*alinhamento vertical*/
+	width:200px;/*cada li vai ter esta medida*/
+	border-right: 1px solid #FFF;
+
+}
+
+#menu ul li a{/*configuração dos textos dos links*/
+	text-decoration: none;/*sem decoração*/
+	font-size:18px;
+	color: #FFF;/*cor branca*/
+}
+
+#cx1{
+	background-color:#0000FF;
+	height:370px;
+	width:1000px;
+
+}
+
+#cx2{
+	background-color:#FFFF00;
+	height:330px;
+	width:475px;
+	margin: 10px 10px 10px 10px;/* margem externa sentido horário iniciando de cima do topo*/
+	float:left;
+}
+
+#cx3{
+	background-color:#90EE90;
+	height:350px;
+	width:475px;
+	margin:10px 10px 10px 10px;/* margem externa sentido horário iniciando de cima do topo*/
+	float:right;
+}
+
+#cx4{
+	background-color:#FFF;/*00FF00*/
+	height:400px;
+	width:1000px;
+	margin:0px;/* margem externa sentido horário iniciando de cima do topo*/
+	
+}
+
+#cx5{
+	background-color:#FFF;/*0000FF*/
+	height:50px;
+	width:475px;
+	margin:60px 0px 0px 0px;/* margem externa sentido horário iniciando de cima do topo*/
+	float:left;
+	text-align: center;
+	vertical-align: middle;/*alinhamento vertical*/
+	font-size:18px;
+	
+}
+
+#cx6{ 
+	background-color:#FFF;/*FF0000*/
+	height:200px;
+	width:475px;
+	margin:0px;/* margem externa sentido horário iniciando de cima do topo*/
+	float:right;
+	text-align: center;
+	vertical-align: middle;/*alinhamento vertical*/
+	font-size:18px;
+	
+}
+
+#cx7{
+	background-color:#90EE90;
+	height:200px;
+	width:970px;
+	margin:0px;/* margem externa sentido horário iniciando de cima do topo*/
+	text-align: center;
+	vertical-align: middle;/*alinhamento vertical*/
+	
+}
+
+footer{
+	background-color:#FFFF00;	
+	height:70px;
+	width:1000px;
+}
+
+
+footer{
+	float:center;
+	background-color:#FFFF00;	
+	height:50px;
+	width:1000px;
+}
+
+footer a:hover{
+	color:#000;
+}
+
+footer ul {/*configuração para a lista não para os itens*/
+	list-style: none;/*tira os pontinhos da lista dos menus*/
+	background: linear-gradient(to bottom, #DDD, #666);/*trabalhando com gradiente no fundo de cor*/
+	padding: 0px;
+	margin: 0px;
+}
+
+footer li {/*Configuração dos itens lists*/
+	height: 50px;
+	display: table-cell;/*forma de exibição - padrao um do lado do outro*/
+	text-align: center;
+	vertical-align: middle;/*alinhamento vertical*/
+	width:1000px;/*cada li vai ter esta medida*/
+	border-right: 1px solid #FFF;
+
+}
+
+footer ul li a{/*configuração dos textos dos links*/
+	text-decoration: none;/*sem decoração*/
+	font-size:10px;
+	color: #FFF;/*cor branca*/
+}
+
+h2{
+	color:#606060;
+	
+}	
+
+h3{
+	color:#606060;
+	font-size:bold;
+}
+
+
+h4{
+	
+	font-size:bold;
+}
+
+
+	
